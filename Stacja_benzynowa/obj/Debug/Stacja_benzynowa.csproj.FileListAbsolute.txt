@@ -12,3 +12,10 @@ D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzy
 D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.csproj.CoreCompileInputs.cache
 D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.exe
 D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.pdb
+C:\Users\dariu\OneDrive\Dokumenty\Visual Studio 2017\Project\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.exe.config
+C:\Users\dariu\OneDrive\Dokumenty\Visual Studio 2017\Project\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.exe
+C:\Users\dariu\OneDrive\Dokumenty\Visual Studio 2017\Project\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.pdb
+C:\Users\dariu\OneDrive\Dokumenty\Visual Studio 2017\Project\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.csprojAssemblyReference.cache
+C:\Users\dariu\OneDrive\Dokumenty\Visual Studio 2017\Project\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.csproj.CoreCompileInputs.cache
+C:\Users\dariu\OneDrive\Dokumenty\Visual Studio 2017\Project\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.exe
+C:\Users\dariu\OneDrive\Dokumenty\Visual Studio 2017\Project\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.pdb
