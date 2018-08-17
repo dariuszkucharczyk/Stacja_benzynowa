@@ -1,0 +1,3 @@
+Anna;Kalita;500;4
+Jan;Kowalski;650;4
+Tomasz;Lewandowski;430;4

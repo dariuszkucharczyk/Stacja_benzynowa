@@ -1,0 +1,14 @@
+D:\_INFORMATYKA\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.csprojResolveAssemblyReference.cache
+D:\_INFORMATYKA\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.csproj.CoreCompileInputs.cache
+D:\_INFORMATYKA\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.exe.config
+D:\_INFORMATYKA\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.exe
+D:\_INFORMATYKA\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.pdb
+D:\_INFORMATYKA\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.exe
+D:\_INFORMATYKA\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.pdb
+D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.exe.config
+D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.exe
+D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\bin\Debug\Stacja_benzynowa.pdb
+D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.csprojAssemblyReference.cache
+D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.csproj.CoreCompileInputs.cache
+D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.exe
+D:\_INFORMATYKA\2 rok\3 semestr\Projekt_zaliczenie\Stacja_benzynowa\Stacja_benzynowa\obj\Debug\Stacja_benzynowa.pdb

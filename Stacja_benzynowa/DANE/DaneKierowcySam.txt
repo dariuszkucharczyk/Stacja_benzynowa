@@ -1,0 +1,6 @@
+Jan;Abacki;Nycz;150;5
+Tomasz;Malinowski;120;5
+Tomasz;Kowalski;180;5
+Dariusz;Dobek;160;5
+Borys;Szyc;178;5
+Tadeusz;Krupa;110;5
