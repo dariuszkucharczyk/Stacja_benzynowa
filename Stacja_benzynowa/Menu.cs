@@ -28,7 +28,7 @@ namespace Stacja_benzynowa
                 Console.CursorVisible = false;
                 Console.ForegroundColor = ConsoleColor.DarkCyan;
                 Console.SetCursorPosition(20, 1);
-                Console.Write("Klienci Stacji benzynowej");
+                Console.Write("Klienci Stacji Benzynowej");
                 Console.ForegroundColor = ConsoleColor.Gray;
                 Console.SetCursorPosition(kolumna, wiersz++);
                 Console.Write("1 - Wczytaj i oblicz premię kierowców samochodów");
